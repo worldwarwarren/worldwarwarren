@@ -21,12 +21,11 @@ Check out my portfolio: N/A
 <h3> Some of my Favorite Tools and Languages </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,sass,tailwind"/>
-    <img src="https://skillicons.dev/icons?i=python,cpp,bash,flask"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+    <img src="https://skillicons.dev/icons?i=python"/>
     <img src="https://skillicons.dev/icons?i=git,vscode"/>
-    <img src="https://skillicons.dev/icons?i=figma,pycharm,clion"/>
-    <img src="https://skillicons.dev/icons?i=docker,postgresql,vite,firebase,ubuntu"/>
-    <img src="https://skillicons.dev/icons?i=notion,ae,ai,blender,unity"/>
+    <img src="https://skillicons.dev/icons?i=figma,pycharm"/>
+    <img src="https://skillicons.dev/icons?i=godot,unity"/>
   </a>
 </p>
 </div>
