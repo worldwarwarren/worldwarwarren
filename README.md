@@ -1,16 +1,33 @@
-## Hi there 👋
+<table border="0" align="right">
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apele11&theme=default" width="420"/> </td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+   <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apele11&theme=default" width="420"></td>
+  </tr>
+</table>
+<div align="left">
+Hi there! 👋 
 
-<!--
-**worldwarwarren/worldwarwarren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Warren George and I am a second-year Digital Arts and Sciences major studying at the University of Florida. I'm passionate about game design, full-stack development, and digital design.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Feel free to reach out: w.george@ufl.edu</br>
+Check out my portfolio: N/A
+
+<h3> Some of my Favorite Tools and Languages </h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,sass,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash,flask"/>
+    <img src="https://skillicons.dev/icons?i=git,vscode"/>
+    <img src="https://skillicons.dev/icons?i=figma,pycharm,clion"/>
+    <img src="https://skillicons.dev/icons?i=docker,postgresql,vite,firebase,ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=notion,ae,ai,blender,unity"/>
+  </a>
+</p>
+</div>
+<br>
